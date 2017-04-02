@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTUtils.h
