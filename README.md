@@ -1,3 +1,6 @@
 # FOKMOJI
 
-Mobile app for FOKMOJI created during deCODE 2017 (March 31 - April 1).
+Run `npm install`, then simply run `react-native run-ios`!
+
+This is what it looks like:
+![FOKMOJI](screenshot.jpg?raw=true)
