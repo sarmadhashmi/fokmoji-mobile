@@ -1,3 +1,2 @@
-dependencies: \
-  /Users/sarmad/emojis-as-a-service-android-ios/ios/EmojisAsAService/main.m \
-  /Users/sarmad/emojis-as-a-service-android-ios/ios/EmojisAsAService/AppDelegate.h
+dependencies: /Users/sarmad/fokmoji-mobile/ios/EmojisAsAService/main.m \
+  /Users/sarmad/fokmoji-mobile/ios/EmojisAsAService/AppDelegate.h

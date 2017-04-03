@@ -1,24 +1,24 @@
 dependencies: \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Modules/RCTDevMenu.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Profiler/RCTProfile.h \
-  /Users/sarmad/emojis-as-a-service-android-ios/node_modules/react-native/React/Base/RCTUtils.h
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/sarmad/fokmoji-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/sarmad/fokmoji-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/sarmad/fokmoji-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/sarmad/fokmoji-mobile/node_modules/react-native/React/Base/RCTUtils.h
